@@ -19,6 +19,6 @@ This is a simple static webpage created for purpose of exercise.
 To run this project, just open index.html file in a browser. 
 ```
 $ git clone https://github.com/pat87bak/dasmotos.git
-$ cd ../mixed_messages
-$ node main.js
+$ cd ../dasmotos
+open index.html
 ```
